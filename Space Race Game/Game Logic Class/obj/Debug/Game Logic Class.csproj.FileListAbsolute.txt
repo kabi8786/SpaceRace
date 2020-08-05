@@ -1,0 +1,37 @@
+C:\Sandpit\Student Project\Space Race\Game Logic Class\bin\Debug\Game Logic Class.dll
+C:\Sandpit\Student Project\Space Race\Game Logic Class\bin\Debug\Game Logic Class.pdb
+C:\Sandpit\Student Project\Space Race\Game Logic Class\obj\Debug\Game Logic Class.csprojAssemblyReference.cache
+C:\Sandpit\Student Project\Space Race\Game Logic Class\obj\Debug\Game Logic Class.csproj.CoreCompileInputs.cache
+C:\Sandpit\Student Project\Space Race\Game Logic Class\obj\Debug\Game Logic Class.dll
+C:\Sandpit\Student Project\Space Race\Game Logic Class\obj\Debug\Game Logic Class.pdb
+C:\Sandpit\Student Project\Space Race\Game Logic Class\bin\Debug\Object Classes.dll
+C:\Sandpit\Student Project\Space Race\Game Logic Class\bin\Debug\Object Classes.pdb
+C:\Sandpit\Student Project\Space Race\Game Logic Class\obj\Debug\Game Logic Class.csproj.CopyComplete
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race\Game Logic Class\bin\Debug\Game Logic Class.dll
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race\Game Logic Class\bin\Debug\Game Logic Class.pdb
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race\Game Logic Class\bin\Debug\Object Classes.dll
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race\Game Logic Class\bin\Debug\Object Classes.pdb
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race\Game Logic Class\obj\Debug\Game Logic Class.dll
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race\Game Logic Class\obj\Debug\Game Logic Class.pdb
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race\Game Logic Class\obj\Debug\Game Logic Class.csprojResolveAssemblyReference.cache
+C:\Users\anguy\Documents\CAB201\Space Race\CAB201-Assignment-2018-S2_n10269142\Space Race\Game Logic Class\bin\Debug\Game Logic Class.dll
+C:\Users\anguy\Documents\CAB201\Space Race\CAB201-Assignment-2018-S2_n10269142\Space Race\Game Logic Class\bin\Debug\Game Logic Class.pdb
+C:\Users\anguy\Documents\CAB201\Space Race\CAB201-Assignment-2018-S2_n10269142\Space Race\Game Logic Class\bin\Debug\Object Classes.dll
+C:\Users\anguy\Documents\CAB201\Space Race\CAB201-Assignment-2018-S2_n10269142\Space Race\Game Logic Class\bin\Debug\Object Classes.pdb
+C:\Users\anguy\Documents\CAB201\Space Race\CAB201-Assignment-2018-S2_n10269142\Space Race\Game Logic Class\obj\Debug\Game Logic Class.csprojResolveAssemblyReference.cache
+C:\Users\anguy\Documents\CAB201\Space Race\CAB201-Assignment-2018-S2_n10269142\Space Race\Game Logic Class\obj\Debug\Game Logic Class.dll
+C:\Users\anguy\Documents\CAB201\Space Race\CAB201-Assignment-2018-S2_n10269142\Space Race\Game Logic Class\obj\Debug\Game Logic Class.pdb
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race [AddendumImplementation]\Game Logic Class\bin\Debug\Game Logic Class.dll
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race [AddendumImplementation]\Game Logic Class\bin\Debug\Game Logic Class.pdb
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race [AddendumImplementation]\Game Logic Class\bin\Debug\Object Classes.dll
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race [AddendumImplementation]\Game Logic Class\bin\Debug\Object Classes.pdb
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race [AddendumImplementation]\Game Logic Class\obj\Debug\Game Logic Class.csprojResolveAssemblyReference.cache
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race [AddendumImplementation]\Game Logic Class\obj\Debug\Game Logic Class.dll
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race [AddendumImplementation]\Game Logic Class\obj\Debug\Game Logic Class.pdb
+C:\Users\anguy\Documents\CAB201\Space Race\Addendum Works, Part B Scattered Tiles\Game Logic Class\bin\Debug\Game Logic Class.dll
+C:\Users\anguy\Documents\CAB201\Space Race\Addendum Works, Part B Scattered Tiles\Game Logic Class\bin\Debug\Game Logic Class.pdb
+C:\Users\anguy\Documents\CAB201\Space Race\Addendum Works, Part B Scattered Tiles\Game Logic Class\bin\Debug\Object Classes.dll
+C:\Users\anguy\Documents\CAB201\Space Race\Addendum Works, Part B Scattered Tiles\Game Logic Class\bin\Debug\Object Classes.pdb
+C:\Users\anguy\Documents\CAB201\Space Race\Addendum Works, Part B Scattered Tiles\Game Logic Class\obj\Debug\Game Logic Class.csprojResolveAssemblyReference.cache
+C:\Users\anguy\Documents\CAB201\Space Race\Addendum Works, Part B Scattered Tiles\Game Logic Class\obj\Debug\Game Logic Class.dll
+C:\Users\anguy\Documents\CAB201\Space Race\Addendum Works, Part B Scattered Tiles\Game Logic Class\obj\Debug\Game Logic Class.pdb

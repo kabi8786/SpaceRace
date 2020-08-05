@@ -1,0 +1,26 @@
+C:\Sandpit\Student Project\Space Race\Object Classes\bin\Debug\Object Classes.dll
+C:\Sandpit\Student Project\Space Race\Object Classes\bin\Debug\Object Classes.pdb
+C:\Sandpit\Student Project\Space Race\Object Classes\obj\Debug\Object Classes.csprojAssemblyReference.cache
+C:\Sandpit\Student Project\Space Race\Object Classes\obj\Debug\Object Classes.csproj.CoreCompileInputs.cache
+C:\Sandpit\Student Project\Space Race\Object Classes\obj\Debug\Object Classes.dll
+C:\Sandpit\Student Project\Space Race\Object Classes\obj\Debug\Object Classes.pdb
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race\Object Classes\bin\Debug\Object Classes.dll
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race\Object Classes\bin\Debug\Object Classes.pdb
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race\Object Classes\obj\Debug\Object Classes.csprojResolveAssemblyReference.cache
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race\Object Classes\obj\Debug\Object Classes.dll
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race\Object Classes\obj\Debug\Object Classes.pdb
+C:\Users\anguy\Documents\CAB201\Space Race\CAB201-Assignment-2018-S2_n10269142\Space Race\Object Classes\bin\Debug\Object Classes.dll
+C:\Users\anguy\Documents\CAB201\Space Race\CAB201-Assignment-2018-S2_n10269142\Space Race\Object Classes\bin\Debug\Object Classes.pdb
+C:\Users\anguy\Documents\CAB201\Space Race\CAB201-Assignment-2018-S2_n10269142\Space Race\Object Classes\obj\Debug\Object Classes.csprojResolveAssemblyReference.cache
+C:\Users\anguy\Documents\CAB201\Space Race\CAB201-Assignment-2018-S2_n10269142\Space Race\Object Classes\obj\Debug\Object Classes.dll
+C:\Users\anguy\Documents\CAB201\Space Race\CAB201-Assignment-2018-S2_n10269142\Space Race\Object Classes\obj\Debug\Object Classes.pdb
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race [AddendumImplementation]\Object Classes\bin\Debug\Object Classes.dll
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race [AddendumImplementation]\Object Classes\bin\Debug\Object Classes.pdb
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race [AddendumImplementation]\Object Classes\obj\Debug\Object Classes.csprojResolveAssemblyReference.cache
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race [AddendumImplementation]\Object Classes\obj\Debug\Object Classes.dll
+C:\Users\anguy\Documents\CAB201\Space Race\Space Race [AddendumImplementation]\Object Classes\obj\Debug\Object Classes.pdb
+C:\Users\anguy\Documents\CAB201\Space Race\Addendum Works, Part B Scattered Tiles\Object Classes\bin\Debug\Object Classes.dll
+C:\Users\anguy\Documents\CAB201\Space Race\Addendum Works, Part B Scattered Tiles\Object Classes\bin\Debug\Object Classes.pdb
+C:\Users\anguy\Documents\CAB201\Space Race\Addendum Works, Part B Scattered Tiles\Object Classes\obj\Debug\Object Classes.csprojResolveAssemblyReference.cache
+C:\Users\anguy\Documents\CAB201\Space Race\Addendum Works, Part B Scattered Tiles\Object Classes\obj\Debug\Object Classes.dll
+C:\Users\anguy\Documents\CAB201\Space Race\Addendum Works, Part B Scattered Tiles\Object Classes\obj\Debug\Object Classes.pdb
